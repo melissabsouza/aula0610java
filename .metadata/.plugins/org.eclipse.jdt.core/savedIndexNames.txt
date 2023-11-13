@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\dachi\Desktop\aula0610java\.metadata\.plugins\org.eclipse.jdt.core
+2178751970.index
+3982340337.index
+1865797976.index
